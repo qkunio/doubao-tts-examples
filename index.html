@@ -153,6 +153,12 @@
 
   main {
     padding: 28px 32px;
+    padding-bottom: 28px;
+    transition: padding-bottom 0.2s;
+  }
+
+  body.player-open main {
+    padding-bottom: 90px;
   }
 
   .empty {
@@ -641,6 +647,7 @@ function playVoice(v, card, btn) {
     barName.textContent = v.name;
     barType.textContent = v.voiceType;
     playerBar.classList.add("visible");
+    document.body.classList.add("player-open");
   }
   setCardPlaying(v.voiceType);
 }
@@ -690,6 +697,7 @@ document.getElementById("close-player").addEventListener("click", () => {
   if (playingVoiceType) setCardStopped(playingVoiceType);
   playingVoiceType = null;
   playerBar.classList.remove("visible");
+  document.body.classList.remove("player-open");
 });
 
 function render() {
