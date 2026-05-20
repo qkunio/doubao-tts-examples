@@ -233,6 +233,13 @@
   .tag-young  { background: rgba(129,199,132,0.15); color: var(--young); border: 1px solid rgba(129,199,132,0.3); }
   .tag-mature { background: rgba(255,183,77,0.15);  color: var(--mature); border: 1px solid rgba(255,183,77,0.3); }
 
+  .voice-type-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    min-width: 0;
+  }
+
   .voice-type {
     font-size: 11px;
     color: var(--text-muted);
@@ -240,7 +247,24 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    flex: 1;
+    min-width: 0;
   }
+
+  .copy-btn {
+    flex-shrink: 0;
+    background: none;
+    border: none;
+    padding: 2px 4px;
+    cursor: pointer;
+    color: var(--text-muted);
+    border-radius: 4px;
+    line-height: 1;
+    transition: color 0.15s, background 0.15s;
+  }
+
+  .copy-btn:hover { color: var(--text); background: var(--surface2); }
+  .copy-btn.copied { color: var(--young); }
 
   .play-btn {
     width: 100%;
@@ -580,7 +604,12 @@ function makeCard(v) {
       <span class="tag ${genderClass}">${genderLabel}</span>
       <span class="tag ${ageClass}">${ageLabel}</span>
     </div>
-    <div class="voice-type" title="${v.voiceType}">${v.voiceType}</div>
+    <div class="voice-type-row">
+      <div class="voice-type" title="${v.voiceType}">${v.voiceType}</div>
+      <button class="copy-btn" data-copy="${v.voiceType}" title="复制">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+      </button>
+    </div>
     <button class="play-btn" data-voice-type="${v.voiceType}">
       <svg class="play-icon" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
       <div class="wave"><span></span><span></span><span></span><span></span><span></span></div>
@@ -714,6 +743,20 @@ document.getElementById("search").addEventListener("input", e => {
 });
 
 render();
+
+grid.addEventListener("click", e => {
+  const btn = e.target.closest(".copy-btn");
+  if (!btn) return;
+  const text = btn.dataset.copy;
+  navigator.clipboard.writeText(text).then(() => {
+    btn.classList.add("copied");
+    btn.innerHTML = '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>';
+    setTimeout(() => {
+      btn.classList.remove("copied");
+      btn.innerHTML = '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
+    }, 1500);
+  });
+});
 </script>
 </body>
 </html>
