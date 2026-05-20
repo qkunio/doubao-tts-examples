@@ -1,0 +1,713 @@
+[
+  {
+    "name": "Vivi 2.0",
+    "voiceType": "zh_female_vv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\Vivi 2.0_zh_female_vv_uranus_bigtts.mp3",
+    "bytes": 40749
+  },
+  {
+    "name": "小何 2.0",
+    "voiceType": "zh_female_xiaohe_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\小何 2.0_zh_female_xiaohe_uranus_bigtts.mp3",
+    "bytes": 34029
+  },
+  {
+    "name": "云舟 2.0",
+    "voiceType": "zh_male_m191_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\云舟 2.0_zh_male_m191_uranus_bigtts.mp3",
+    "bytes": 34029
+  },
+  {
+    "name": "小天 2.0",
+    "voiceType": "zh_male_taocheng_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\小天 2.0_zh_male_taocheng_uranus_bigtts.mp3",
+    "bytes": 32301
+  },
+  {
+    "name": "刘飞 2.0",
+    "voiceType": "zh_male_liufei_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\刘飞 2.0_zh_male_liufei_uranus_bigtts.mp3",
+    "bytes": 29037
+  },
+  {
+    "name": "魅力苏菲 2.0",
+    "voiceType": "zh_female_sophie_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\魅力苏菲 2.0_zh_female_sophie_uranus_bigtts.mp3",
+    "bytes": 35565
+  },
+  {
+    "name": "清新女声 2.0",
+    "voiceType": "zh_female_qingxinnvsheng_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\清新女声 2.0_zh_female_qingxinnvsheng_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "知性灿灿 2.0",
+    "voiceType": "zh_female_cancan_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\知性灿灿 2.0_zh_female_cancan_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "撒娇学妹 2.0",
+    "voiceType": "zh_female_sajiaoxuemei_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\撒娇学妹 2.0_zh_female_sajiaoxuemei_uranus_bigtts.mp3",
+    "bytes": 45165
+  },
+  {
+    "name": "甜美小源 2.0",
+    "voiceType": "zh_female_tianmeixiaoyuan_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\甜美小源 2.0_zh_female_tianmeixiaoyuan_uranus_bigtts.mp3",
+    "bytes": 40557
+  },
+  {
+    "name": "甜美桃子 2.0",
+    "voiceType": "zh_female_tianmeitaozi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\甜美桃子 2.0_zh_female_tianmeitaozi_uranus_bigtts.mp3",
+    "bytes": 37293
+  },
+  {
+    "name": "爽快思思 2.0",
+    "voiceType": "zh_female_shuangkuaisisi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\爽快思思 2.0_zh_female_shuangkuaisisi_uranus_bigtts.mp3",
+    "bytes": 32493
+  },
+  {
+    "name": "佩奇猪 2.0",
+    "voiceType": "zh_female_peiqi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\佩奇猪 2.0_zh_female_peiqi_uranus_bigtts.mp3",
+    "bytes": 40749
+  },
+  {
+    "name": "邻家女孩 2.0",
+    "voiceType": "zh_female_linjianvhai_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\邻家女孩 2.0_zh_female_linjianvhai_uranus_bigtts.mp3",
+    "bytes": 37293
+  },
+  {
+    "name": "少年梓辛 Brayan 2.0",
+    "voiceType": "zh_male_shaonianzixin_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\少年梓辛 Brayan 2.0_zh_male_shaonianzixin_uranus_bigtts.mp3",
+    "bytes": 32301
+  },
+  {
+    "name": "猴哥 2.0",
+    "voiceType": "zh_male_sunwukong_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\猴哥 2.0_zh_male_sunwukong_uranus_bigtts.mp3",
+    "bytes": 45165
+  },
+  {
+    "name": "Tina老师 2.0",
+    "voiceType": "zh_female_yingyujiaoxue_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\Tina老师 2.0_zh_female_yingyujiaoxue_uranus_bigtts.mp3",
+    "bytes": 37101
+  },
+  {
+    "name": "暖阳女声 2.0",
+    "voiceType": "zh_female_kefunvsheng_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\暖阳女声 2.0_zh_female_kefunvsheng_uranus_bigtts.mp3",
+    "bytes": 35565
+  },
+  {
+    "name": "儿童绘本 2.0",
+    "voiceType": "zh_female_xiaoxue_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\儿童绘本 2.0_zh_female_xiaoxue_uranus_bigtts.mp3",
+    "bytes": 43821
+  },
+  {
+    "name": "大壹 2.0",
+    "voiceType": "zh_male_dayi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\大壹 2.0_zh_male_dayi_uranus_bigtts.mp3",
+    "bytes": 29037
+  },
+  {
+    "name": "黑猫侦探社咪仔 2.0",
+    "voiceType": "zh_female_mizai_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\黑猫侦探社咪仔 2.0_zh_female_mizai_uranus_bigtts.mp3",
+    "bytes": 30957
+  },
+  {
+    "name": "鸡汤女 2.0",
+    "voiceType": "zh_female_jitangnv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\鸡汤女 2.0_zh_female_jitangnv_uranus_bigtts.mp3",
+    "bytes": 42093
+  },
+  {
+    "name": "魅力女友 2.0",
+    "voiceType": "zh_female_meilinvyou_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\魅力女友 2.0_zh_female_meilinvyou_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "流畅女声 2.0",
+    "voiceType": "zh_female_liuchangnv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\流畅女声 2.0_zh_female_liuchangnv_uranus_bigtts.mp3",
+    "bytes": 37293
+  },
+  {
+    "name": "儒雅逸辰 2.0",
+    "voiceType": "zh_male_ruyayichen_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\儒雅逸辰 2.0_zh_male_ruyayichen_uranus_bigtts.mp3",
+    "bytes": 40365
+  },
+  {
+    "name": "Tim",
+    "voiceType": "en_male_tim_uranus_bigtts",
+    "status": "failed",
+    "error": "No audio returned logid=20260520150356DB700EE87382611ACE04"
+  },
+  {
+    "name": "Dacey",
+    "voiceType": "en_female_dacey_uranus_bigtts",
+    "status": "failed",
+    "error": "No audio returned logid=2026052015035793CB3F46FA7D51CB9E7B"
+  },
+  {
+    "name": "Stokie",
+    "voiceType": "en_female_stokie_uranus_bigtts",
+    "status": "failed",
+    "error": "No audio returned logid=20260520150358EC648B2E61B15968307F"
+  },
+  {
+    "name": "温柔妈妈 2.0",
+    "voiceType": "zh_female_wenroumama_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\温柔妈妈 2.0_zh_female_wenroumama_uranus_bigtts.mp3",
+    "bytes": 46893
+  },
+  {
+    "name": "解说小明 2.0",
+    "voiceType": "zh_male_jieshuoxiaoming_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\解说小明 2.0_zh_male_jieshuoxiaoming_uranus_bigtts.mp3",
+    "bytes": 34029
+  },
+  {
+    "name": "TVB女声 2.0",
+    "voiceType": "zh_female_tvbnv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\TVB女声 2.0_zh_female_tvbnv_uranus_bigtts.mp3",
+    "bytes": 43821
+  },
+  {
+    "name": "译制片男 2.0",
+    "voiceType": "zh_male_yizhipiannan_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\译制片男 2.0_zh_male_yizhipiannan_uranus_bigtts.mp3",
+    "bytes": 44013
+  },
+  {
+    "name": "俏皮女声 2.0",
+    "voiceType": "zh_female_qiaopinv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\俏皮女声 2.0_zh_female_qiaopinv_uranus_bigtts.mp3",
+    "bytes": 38637
+  },
+  {
+    "name": "直率英子 2.0",
+    "voiceType": "zh_female_zhishuaiyingzi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\直率英子 2.0_zh_female_zhishuaiyingzi_uranus_bigtts.mp3",
+    "bytes": 35757
+  },
+  {
+    "name": "邻家男孩 2.0",
+    "voiceType": "zh_male_linjiananhai_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\邻家男孩 2.0_zh_male_linjiananhai_uranus_bigtts.mp3",
+    "bytes": 35565
+  },
+  {
+    "name": "四郎 2.0",
+    "voiceType": "zh_male_silang_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\四郎 2.0_zh_male_silang_uranus_bigtts.mp3",
+    "bytes": 43629
+  },
+  {
+    "name": "儒雅青年 2.0",
+    "voiceType": "zh_male_ruyaqingnian_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\儒雅青年 2.0_zh_male_ruyaqingnian_uranus_bigtts.mp3",
+    "bytes": 32301
+  },
+  {
+    "name": "擎苍 2.0",
+    "voiceType": "zh_male_qingcang_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\擎苍 2.0_zh_male_qingcang_uranus_bigtts.mp3",
+    "bytes": 43629
+  },
+  {
+    "name": "熊二 2.0",
+    "voiceType": "zh_male_xionger_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\熊二 2.0_zh_male_xionger_uranus_bigtts.mp3",
+    "bytes": 37293
+  },
+  {
+    "name": "樱桃丸子 2.0",
+    "voiceType": "zh_female_yingtaowanzi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\樱桃丸子 2.0_zh_female_yingtaowanzi_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "温暖阿虎 Alvin 2.0",
+    "voiceType": "zh_male_wennuanahu_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\温暖阿虎 Alvin 2.0_zh_male_wennuanahu_uranus_bigtts.mp3",
+    "bytes": 35565
+  },
+  {
+    "name": "奶气萌娃 2.0",
+    "voiceType": "zh_male_naiqimengwa_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\奶气萌娃 2.0_zh_male_naiqimengwa_uranus_bigtts.mp3",
+    "bytes": 57837
+  },
+  {
+    "name": "婆婆 2.0",
+    "voiceType": "zh_female_popo_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\婆婆 2.0_zh_female_popo_uranus_bigtts.mp3",
+    "bytes": 59757
+  },
+  {
+    "name": "高冷御姐 2.0",
+    "voiceType": "zh_female_gaolengyujie_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\高冷御姐 2.0_zh_female_gaolengyujie_uranus_bigtts.mp3",
+    "bytes": 38637
+  },
+  {
+    "name": "傲娇霸总 2.0",
+    "voiceType": "zh_male_aojiaobazong_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\傲娇霸总 2.0_zh_male_aojiaobazong_uranus_bigtts.mp3",
+    "bytes": 35373
+  },
+  {
+    "name": "懒音绵宝 2.0",
+    "voiceType": "zh_male_lanyinmianbao_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\懒音绵宝 2.0_zh_male_lanyinmianbao_uranus_bigtts.mp3",
+    "bytes": 40557
+  },
+  {
+    "name": "反卷青年 2.0",
+    "voiceType": "zh_male_fanjuanqingnian_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\反卷青年 2.0_zh_male_fanjuanqingnian_uranus_bigtts.mp3",
+    "bytes": 40365
+  },
+  {
+    "name": "温柔淑女 2.0",
+    "voiceType": "zh_female_wenroushunv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\温柔淑女 2.0_zh_female_wenroushunv_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "古风少御 2.0",
+    "voiceType": "zh_female_gufengshaoyu_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\古风少御 2.0_zh_female_gufengshaoyu_uranus_bigtts.mp3",
+    "bytes": 45357
+  },
+  {
+    "name": "活力小哥 2.0",
+    "voiceType": "zh_male_huolixiaoge_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\活力小哥 2.0_zh_male_huolixiaoge_uranus_bigtts.mp3",
+    "bytes": 40557
+  },
+  {
+    "name": "霸气青叔 2.0",
+    "voiceType": "zh_male_baqiqingshu_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\霸气青叔 2.0_zh_male_baqiqingshu_uranus_bigtts.mp3",
+    "bytes": 35565
+  },
+  {
+    "name": "悬疑解说 2.0",
+    "voiceType": "zh_male_xuanyijieshuo_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\悬疑解说 2.0_zh_male_xuanyijieshuo_uranus_bigtts.mp3",
+    "bytes": 35565
+  },
+  {
+    "name": "萌丫头 Cutey 2.0",
+    "voiceType": "zh_female_mengyatou_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\萌丫头 Cutey 2.0_zh_female_mengyatou_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "贴心女声 Candy 2.0",
+    "voiceType": "zh_female_tiexinnvsheng_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\贴心女声 Candy 2.0_zh_female_tiexinnvsheng_uranus_bigtts.mp3",
+    "bytes": 37293
+  },
+  {
+    "name": "鸡汤妹妹 Hope 2.0",
+    "voiceType": "zh_female_jitangmei_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\鸡汤妹妹 Hope 2.0_zh_female_jitangmei_uranus_bigtts.mp3",
+    "bytes": 46893
+  },
+  {
+    "name": "磁性解说男声 Morgan 2.0",
+    "voiceType": "zh_male_cixingjieshuonan_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\磁性解说男声 Morgan 2.0_zh_male_cixingjieshuonan_uranus_bigtts.mp3",
+    "bytes": 56493
+  },
+  {
+    "name": "亮嗓萌仔 2.0",
+    "voiceType": "zh_male_liangsangmengzai_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\亮嗓萌仔 2.0_zh_male_liangsangmengzai_uranus_bigtts.mp3",
+    "bytes": 42093
+  },
+  {
+    "name": "开朗姐姐 2.0",
+    "voiceType": "zh_female_kailangjiejie_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\开朗姐姐 2.0_zh_female_kailangjiejie_uranus_bigtts.mp3",
+    "bytes": 40557
+  },
+  {
+    "name": "高冷沉稳 2.0",
+    "voiceType": "zh_male_gaolengchenwen_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\高冷沉稳 2.0_zh_male_gaolengchenwen_uranus_bigtts.mp3",
+    "bytes": 38637
+  },
+  {
+    "name": "深夜播客 2.0",
+    "voiceType": "zh_male_shenyeboke_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\深夜播客 2.0_zh_male_shenyeboke_uranus_bigtts.mp3",
+    "bytes": 40557
+  },
+  {
+    "name": "鲁班七号 2.0",
+    "voiceType": "zh_male_lubanqihao_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\鲁班七号 2.0_zh_male_lubanqihao_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "娇喘女声 2.0",
+    "voiceType": "zh_female_jiaochuannv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\娇喘女声 2.0_zh_female_jiaochuannv_uranus_bigtts.mp3",
+    "bytes": 53421
+  },
+  {
+    "name": "林潇 2.0",
+    "voiceType": "zh_female_linxiao_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\林潇 2.0_zh_female_linxiao_uranus_bigtts.mp3",
+    "bytes": 38829
+  },
+  {
+    "name": "玲玲姐姐 2.0",
+    "voiceType": "zh_female_lingling_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\玲玲姐姐 2.0_zh_female_lingling_uranus_bigtts.mp3",
+    "bytes": 43821
+  },
+  {
+    "name": "春日部姐姐 2.0",
+    "voiceType": "zh_female_chunribu_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\春日部姐姐 2.0_zh_female_chunribu_uranus_bigtts.mp3",
+    "bytes": 43821
+  },
+  {
+    "name": "唐僧 2.0",
+    "voiceType": "zh_male_tangseng_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\唐僧 2.0_zh_male_tangseng_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "庄周 2.0",
+    "voiceType": "zh_male_zhuangzhou_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\庄周 2.0_zh_male_zhuangzhou_uranus_bigtts.mp3",
+    "bytes": 45165
+  },
+  {
+    "name": "开朗弟弟 2.0",
+    "voiceType": "zh_male_kailangdidi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\开朗弟弟 2.0_zh_male_kailangdidi_uranus_bigtts.mp3",
+    "bytes": 38829
+  },
+  {
+    "name": "猪八戒 2.0",
+    "voiceType": "zh_male_zhubajie_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\猪八戒 2.0_zh_male_zhubajie_uranus_bigtts.mp3",
+    "bytes": 45165
+  },
+  {
+    "name": "感冒电音姐姐 2.0",
+    "voiceType": "zh_female_ganmaodianyin_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\感冒电音姐姐 2.0_zh_female_ganmaodianyin_uranus_bigtts.mp3",
+    "bytes": 40557
+  },
+  {
+    "name": "谄媚女声 2.0",
+    "voiceType": "zh_female_chanmeinv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\谄媚女声 2.0_zh_female_chanmeinv_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "女雷神 2.0",
+    "voiceType": "zh_female_nvleishen_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\女雷神 2.0_zh_female_nvleishen_uranus_bigtts.mp3",
+    "bytes": 40557
+  },
+  {
+    "name": "亲切女声 2.0",
+    "voiceType": "zh_female_qinqienv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\亲切女声 2.0_zh_female_qinqienv_uranus_bigtts.mp3",
+    "bytes": 35565
+  },
+  {
+    "name": "快乐小东 2.0",
+    "voiceType": "zh_male_kuailexiaodong_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\快乐小东 2.0_zh_male_kuailexiaodong_uranus_bigtts.mp3",
+    "bytes": 34029
+  },
+  {
+    "name": "开朗学长 2.0",
+    "voiceType": "zh_male_kailangxuezhang_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\开朗学长 2.0_zh_male_kailangxuezhang_uranus_bigtts.mp3",
+    "bytes": 38829
+  },
+  {
+    "name": "悠悠君子 2.0",
+    "voiceType": "zh_male_youyoujunzi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\悠悠君子 2.0_zh_male_youyoujunzi_uranus_bigtts.mp3",
+    "bytes": 29037
+  },
+  {
+    "name": "文静毛毛 2.0",
+    "voiceType": "zh_female_wenjingmaomao_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\文静毛毛 2.0_zh_female_wenjingmaomao_uranus_bigtts.mp3",
+    "bytes": 37293
+  },
+  {
+    "name": "知性女声 2.0",
+    "voiceType": "zh_female_zhixingnv_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\知性女声 2.0_zh_female_zhixingnv_uranus_bigtts.mp3",
+    "bytes": 38637
+  },
+  {
+    "name": "清爽男大 2.0",
+    "voiceType": "zh_male_qingshuangnanda_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\清爽男大 2.0_zh_male_qingshuangnanda_uranus_bigtts.mp3",
+    "bytes": 35373
+  },
+  {
+    "name": "渊博小叔 2.0",
+    "voiceType": "zh_male_yuanboxiaoshu_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\渊博小叔 2.0_zh_male_yuanboxiaoshu_uranus_bigtts.mp3",
+    "bytes": 34029
+  },
+  {
+    "name": "阳光青年 2.0",
+    "voiceType": "zh_male_yangguangqingnian_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\阳光青年 2.0_zh_male_yangguangqingnian_uranus_bigtts.mp3",
+    "bytes": 30957
+  },
+  {
+    "name": "清澈梓梓 2.0",
+    "voiceType": "zh_female_qingchezizi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\清澈梓梓 2.0_zh_female_qingchezizi_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "甜美悦悦 2.0",
+    "voiceType": "zh_female_tianmeiyueyue_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\甜美悦悦 2.0_zh_female_tianmeiyueyue_uranus_bigtts.mp3",
+    "bytes": 37293
+  },
+  {
+    "name": "心灵鸡汤 2.0",
+    "voiceType": "zh_female_xinlingjitang_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\心灵鸡汤 2.0_zh_female_xinlingjitang_uranus_bigtts.mp3",
+    "bytes": 50157
+  },
+  {
+    "name": "温柔小哥 2.0",
+    "voiceType": "zh_male_wenrouxiaoge_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\温柔小哥 2.0_zh_male_wenrouxiaoge_uranus_bigtts.mp3",
+    "bytes": 50157
+  },
+  {
+    "name": "柔美女友 2.0",
+    "voiceType": "zh_female_roumeinvyou_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\柔美女友 2.0_zh_female_roumeinvyou_uranus_bigtts.mp3",
+    "bytes": 45357
+  },
+  {
+    "name": "东方浩然 2.0",
+    "voiceType": "zh_male_dongfanghaoran_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\东方浩然 2.0_zh_male_dongfanghaoran_uranus_bigtts.mp3",
+    "bytes": 43821
+  },
+  {
+    "name": "温柔小雅 2.0",
+    "voiceType": "zh_female_wenrouxiaoya_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\温柔小雅 2.0_zh_female_wenrouxiaoya_uranus_bigtts.mp3",
+    "bytes": 42093
+  },
+  {
+    "name": "天才童声 2.0",
+    "voiceType": "zh_male_tiancaitongsheng_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\天才童声 2.0_zh_male_tiancaitongsheng_uranus_bigtts.mp3",
+    "bytes": 47085
+  },
+  {
+    "name": "武则天 2.0",
+    "voiceType": "zh_female_wuzetian_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\武则天 2.0_zh_female_wuzetian_uranus_bigtts.mp3",
+    "bytes": 48429
+  },
+  {
+    "name": "顾姐 2.0",
+    "voiceType": "zh_female_gujie_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\顾姐 2.0_zh_female_gujie_uranus_bigtts.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "广告解说 2.0",
+    "voiceType": "zh_male_guanggaojieshuo_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\广告解说 2.0_zh_male_guanggaojieshuo_uranus_bigtts.mp3",
+    "bytes": 45165
+  },
+  {
+    "name": "少儿故事 2.0",
+    "voiceType": "zh_female_shaoergushi_uranus_bigtts",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\少儿故事 2.0_zh_female_shaoergushi_uranus_bigtts.mp3",
+    "bytes": 45357
+  },
+  {
+    "name": "调皮公主",
+    "voiceType": "saturn_zh_female_tiaopigongzhu_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\调皮公主_saturn_zh_female_tiaopigongzhu_tob.mp3",
+    "bytes": 41901
+  },
+  {
+    "name": "可爱女生",
+    "voiceType": "saturn_zh_female_keainvsheng_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\可爱女生_saturn_zh_female_keainvsheng_tob.mp3",
+    "bytes": 41325
+  },
+  {
+    "name": "爽朗少年",
+    "voiceType": "saturn_zh_male_shuanglangshaonian_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\爽朗少年_saturn_zh_male_shuanglangshaonian_tob.mp3",
+    "bytes": 32493
+  },
+  {
+    "name": "天才同桌",
+    "voiceType": "saturn_zh_male_tiancaitongzhuo_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\天才同桌_saturn_zh_male_tiancaitongzhuo_tob.mp3",
+    "bytes": 37293
+  },
+  {
+    "name": "知性灿灿",
+    "voiceType": "saturn_zh_female_cancan_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\知性灿灿_saturn_zh_female_cancan_tob.mp3",
+    "bytes": 34797
+  },
+  {
+    "name": "轻盈朵朵 2.0",
+    "voiceType": "saturn_zh_female_qingyingduoduo_cs_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\轻盈朵朵 2.0_saturn_zh_female_qingyingduoduo_cs_tob.mp3",
+    "bytes": 32109
+  },
+  {
+    "name": "温婉珊珊 2.0",
+    "voiceType": "saturn_zh_female_wenwanshanshan_cs_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\温婉珊珊 2.0_saturn_zh_female_wenwanshanshan_cs_tob.mp3",
+    "bytes": 33261
+  },
+  {
+    "name": "热情艾娜 2.0",
+    "voiceType": "saturn_zh_female_reqingaina_cs_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\热情艾娜 2.0_saturn_zh_female_reqingaina_cs_tob.mp3",
+    "bytes": 29229
+  },
+  {
+    "name": "清新沐沐 2.0",
+    "voiceType": "saturn_zh_male_qingxinmumu_cs_tob",
+    "status": "ok",
+    "output": "D:\\projects\\PodcastX-1\\assets\\voice-samples\\清新沐沐 2.0_saturn_zh_male_qingxinmumu_cs_tob.mp3",
+    "bytes": 34989
+  }
+]
