@@ -153,12 +153,6 @@
 
   main {
     padding: 28px 32px;
-    padding-bottom: 28px;
-    transition: padding-bottom 0.2s;
-  }
-
-  body.player-open main {
-    padding-bottom: 90px;
   }
 
   .empty {
@@ -329,54 +323,10 @@
     50%       { transform: scaleY(1); }
   }
 
-  /* Now playing bar */
-  #player-bar {
-    position: fixed;
-    bottom: 0; left: 0; right: 0;
-    background: linear-gradient(0deg, rgba(26,29,39,0.98), rgba(26,29,39,0.9));
-    border-top: 1px solid var(--border);
-    backdrop-filter: blur(16px);
-    padding: 12px 32px;
-    display: none;
-    align-items: center;
-    gap: 16px;
-    z-index: 200;
-  }
-  #player-bar.visible { display: flex; }
-
-  #player-bar .now-info {
-    display: flex;
-    flex-direction: column;
-    min-width: 140px;
-  }
-  #player-bar .now-name { font-size: 14px; font-weight: 600; }
-  #player-bar .now-type { font-size: 11px; color: var(--text-muted); margin-top: 2px; font-family: monospace; }
-
-  #player-bar audio {
-    flex: 1;
-    height: 36px;
-    accent-color: var(--accent);
-  }
-
-  #player-bar .close-btn {
-    background: none;
-    border: none;
-    color: var(--text-muted);
-    cursor: pointer;
-    font-size: 20px;
-    line-height: 1;
-    padding: 4px;
-    border-radius: 4px;
-    transition: color 0.15s;
-  }
-  #player-bar .close-btn:hover { color: var(--text); }
-
   @media (max-width: 600px) {
     header { padding: 16px; }
     main { padding: 16px; }
     .header-top { flex-wrap: wrap; }
-    #player-bar { padding: 10px 16px; flex-wrap: wrap; }
-    #player-bar audio { width: 100%; }
   }
 </style>
 </head>
@@ -415,14 +365,7 @@
   <div class="grid" id="grid"></div>
 </main>
 
-<div id="player-bar">
-  <div class="now-info">
-    <div class="now-name" id="bar-name">—</div>
-    <div class="now-type" id="bar-type"></div>
-  </div>
-  <audio id="global-audio" controls preload="none"></audio>
-  <button class="close-btn" id="close-player" title="关闭">✕</button>
-</div>
+<audio id="global-audio" preload="none" style="display:none"></audio>
 
 <script>
 const VOICES = [
@@ -581,9 +524,6 @@ let cardMap = {}; // voiceType -> card element
 
 const grid = document.getElementById("grid");
 const audio = document.getElementById("global-audio");
-const playerBar = document.getElementById("player-bar");
-const barName = document.getElementById("bar-name");
-const barType = document.getElementById("bar-type");
 const shownCount = document.getElementById("shown-count");
 const totalCount = document.getElementById("total-count");
 const emptyMsg = document.getElementById("empty-msg");
@@ -639,15 +579,10 @@ function playVoice(v, card, btn) {
       return;
     }
   } else {
-    // Stop previous
     if (playingVoiceType) setCardStopped(playingVoiceType);
     playingVoiceType = v.voiceType;
     audio.src = v.file;
     audio.play().catch(() => {});
-    barName.textContent = v.name;
-    barType.textContent = v.voiceType;
-    playerBar.classList.add("visible");
-    document.body.classList.add("player-open");
   }
   setCardPlaying(v.voiceType);
 }
@@ -675,29 +610,6 @@ function setCardStopped(vt) {
 audio.addEventListener("ended", () => {
   if (playingVoiceType) setCardStopped(playingVoiceType);
   playingVoiceType = null;
-});
-
-audio.addEventListener("pause", () => {
-  if (playingVoiceType) {
-    const el = cardMap[playingVoiceType];
-    if (el) {
-      el.btn.querySelector(".wave").classList.remove("show");
-      el.btn.querySelector(".play-icon").style.display = "";
-      el.btn.querySelector(".btn-label").textContent = "继续";
-    }
-  }
-});
-
-audio.addEventListener("play", () => {
-  if (playingVoiceType) setCardPlaying(playingVoiceType);
-});
-
-document.getElementById("close-player").addEventListener("click", () => {
-  audio.pause();
-  if (playingVoiceType) setCardStopped(playingVoiceType);
-  playingVoiceType = null;
-  playerBar.classList.remove("visible");
-  document.body.classList.remove("player-open");
 });
 
 function render() {
